@@ -1,0 +1,6 @@
+{
+  "name": "CodeMaster & ExamPrep Study Hub",
+  "description": "Comprehensive personalized coding study plan with daily challenges, GATE & NTPC mock tests, structured roadmaps, YouTube lectures, free books, weak area diagnosis, and peer leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
